@@ -1,0 +1,282 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600&family=Spectral:wght@400;600&display=swap");
+
+:root {
+  color-scheme: light;
+  --ink: #1d1a17;
+  --muted: #58514b;
+  --cream: #f6f1e7;
+  --sand: #e9dfcf;
+  --accent: #e76f51;
+  --accent-dark: #d3573a;
+  --panel: #fff7ec;
+  --shadow: 0 20px 50px rgba(33, 26, 21, 0.15);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: radial-gradient(circle at top left, #ffe6d2 0%, #f3e6d4 35%, #e3d6c8 100%);
+  color: var(--ink);
+  font-family: "Space Grotesk", "Helvetica Neue", sans-serif;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: -40vh -20vw auto -20vw;
+  height: 80vh;
+  background: radial-gradient(circle at center, rgba(255, 220, 190, 0.6), transparent 70%);
+  z-index: -2;
+}
+
+body::after {
+  content: "";
+  position: fixed;
+  inset: auto -10vw -30vh -10vw;
+  height: 60vh;
+  background: radial-gradient(circle at center, rgba(231, 111, 81, 0.2), transparent 70%);
+  z-index: -2;
+}
+
+.page {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 48px 20px 72px;
+  display: grid;
+  gap: 32px;
+}
+
+.hero {
+  animation: fade-up 700ms ease both;
+}
+
+.eyebrow {
+  text-transform: uppercase;
+  letter-spacing: 0.25em;
+  font-size: 12px;
+  color: var(--muted);
+  margin: 0 0 12px;
+}
+
+.hero h1 {
+  margin: 0 0 12px;
+  font-size: clamp(2rem, 4vw, 3.2rem);
+  font-family: "Spectral", "Georgia", serif;
+}
+
+.sub {
+  margin: 0;
+  font-size: 1.05rem;
+  color: var(--muted);
+}
+
+.panel {
+  background: var(--panel);
+  border-radius: 24px;
+  padding: 28px;
+  box-shadow: var(--shadow);
+  animation: fade-up 700ms ease both;
+  animation-delay: 120ms;
+}
+
+.chat {
+  display: grid;
+  gap: 16px;
+  padding: 10px 2px 24px;
+  max-height: 360px;
+  overflow-y: auto;
+}
+
+.message {
+  padding: 12px 16px;
+  border-radius: 18px;
+  max-width: 75%;
+  line-height: 1.4;
+  animation: pop-in 300ms ease both;
+}
+
+.message.bot {
+  background: var(--sand);
+  justify-self: start;
+}
+
+.message.user {
+  background: #fff;
+  border: 1px solid #e7d6c7;
+  justify-self: end;
+}
+
+.form {
+  display: grid;
+  gap: 12px;
+}
+
+label {
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+
+.input-row {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+input[type="text"] {
+  flex: 1 1 240px;
+  padding: 12px 14px;
+  border-radius: 14px;
+  border: 1px solid #d9c7b6;
+  font-size: 1rem;
+  font-family: inherit;
+}
+
+button {
+  padding: 12px 18px;
+  border-radius: 14px;
+  border: none;
+  background: var(--accent);
+  color: white;
+  font-weight: 600;
+  cursor: pointer;
+  transition: transform 150ms ease, background 150ms ease;
+}
+
+button:hover {
+  background: var(--accent-dark);
+  transform: translateY(-1px);
+}
+
+button:disabled {
+  opacity: 0.65;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+}
+
+.toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 0.95rem;
+  color: var(--muted);
+}
+
+.toggle input {
+  width: 18px;
+  height: 18px;
+  accent-color: var(--accent);
+}
+
+.status {
+  background: #fff;
+  border: 1px dashed #d9c7b6;
+  border-radius: 18px;
+  padding: 12px 16px;
+  display: grid;
+  gap: 8px;
+  max-width: 70%;
+}
+
+.status[hidden] {
+  display: none;
+}
+
+.status-title {
+  font-size: 0.85rem;
+  color: var(--muted);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.status-steps {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.status-step {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.95rem;
+  color: var(--muted);
+}
+
+.status-step::before {
+  content: "";
+  width: 6px;
+  height: 6px;
+  border-radius: 999px;
+  background: #c4b3a4;
+}
+
+.status-step.is-active {
+  color: var(--ink);
+  font-weight: 600;
+}
+
+.status-step.is-done {
+  color: var(--ink);
+}
+
+.status-step.is-skipped {
+  text-decoration: line-through;
+  opacity: 0.5;
+}
+
+#clear {
+  background: transparent;
+  color: var(--muted);
+  border: 1px solid #d9c7b6;
+}
+
+#clear:hover {
+  background: #f1e6d9;
+  color: var(--ink);
+}
+
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pop-in {
+  from {
+    opacity: 0;
+    transform: scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@media (max-width: 720px) {
+  .panel {
+    padding: 22px;
+  }
+
+  .message {
+    max-width: 100%;
+  }
+}

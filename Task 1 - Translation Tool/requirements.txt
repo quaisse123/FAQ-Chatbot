@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+httpx
+python-dotenv
+jinja2
+aiofiles
+fastapi
+uvicorn[standard]
+httpx
+python-dotenv
+jinja2
+aiofiles

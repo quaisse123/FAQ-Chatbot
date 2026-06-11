@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>FAQ Assistant</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Newsreader:wght@500;600&family=Sora:wght@300;400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <div class="page">
+      <header class="top-bar">
+        <div class="brand">
+          <span class="brand-mark"></span>
+          <div>
+            <p class="brand-title">FAQ Assistant</p>
+            <p class="brand-subtitle">Local semantic search for your knowledge base</p>
+          </div>
+        </div>
+        <div class="status-wrap">
+          <div class="status-pill" id="status" data-state="ready">Ready</div>
+          <p class="status-note">Local embeddings</p>
+        </div>
+      </header>
+
+      <main class="chat-shell">
+        <div class="chat-header">
+          <div>
+            <p class="chat-title">Ask your FAQ knowledge base</p>
+            <p class="chat-subtitle">
+              Answers are retrieved from your dataset, not generated from scratch.
+            </p>
+          </div>
+          <div class="chat-meta">
+            <span class="meta-chip">Model: MiniLM</span>
+            <span class="meta-chip">Mode: Local</span>
+          </div>
+        </div>
+
+        <section class="chat-panel">
+          <div class="messages" id="messages">
+            <div class="message assistant">
+              <div class="bubble">
+                <p>
+                  Hi! Ask me anything about shipping, returns, orders, payments, or account
+                  support.
+                </p>
+              </div>
+              <div class="meta">
+                <span class="meta-label">Assistant</span>
+                <span class="meta-tag">FAQ</span>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="composer">
+          <form id="chat-form">
+            <div class="input-wrap">
+              <textarea
+                id="message-input"
+                placeholder="Ask a question..."
+                rows="1"
+                required
+              ></textarea>
+              <button type="submit" id="send-button" class="send-button">Send</button>
+            </div>
+            <div class="hint">Press Enter to send. Shift+Enter for a new line.</div>
+          </form>
+        </section>
+      </main>
+    </div>
+
+    <script src="/static/app.js"></script>
+  </body>
+</html>

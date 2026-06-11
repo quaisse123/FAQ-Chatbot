@@ -1,0 +1,501 @@
+question,answer,category
+Where is my order?,You can track your order using the tracking link sent to your email.,Shipping
+How do I return a shirt that doesn't fit?,You can return any item within 30 days in its original condition using our return portal.,Returns
+"My package hasn't arrived yet, what should I do?","Please check the tracking number. If it hasn't updated in 3 days, contact our support team.",Shipping
+Can I exchange a dress for a different size?,"Yes, use our exchange form online to select the new size and ship your item back.",Returns
+Do you offer free shipping?,"Yes, orders over $50 qualify for free standard shipping.",Shipping
+I entered the wrong shipping address. Can I change it?,Contact our support immediately; we may be able to update your shipping address before dispatch.,Shipping
+How long does shipping take?,Standard shipping usually takes 5-7 business days; express shipping is 2-3 days.,Shipping
+My payment was declined. What should I do?,"Check your card details and try again, or use an alternative payment method.",Payment
+Can I cancel my order?,Orders can be canceled within 24 hours of placement via our cancelation page.,Order Management
+I received the wrong item. What now?,"Please use our returns page to report the error, and we‚Äôll send the correct item immediately.",Returns
+Do you ship internationally?,"Yes, we ship to most countries; international shipping rates apply.",Shipping
+Is it safe to use my credit card on your site?,"Yes, we use SSL encryption to ensure secure transactions.",Payment
+"My package says delivered, but I didn't get it.","Check with your neighbors or local post office. If still missing, contact us for assistance.",Shipping
+Can I pre-order upcoming items?,"Yes, pre-orders are available for select items and will ship on the release date.",Orders
+Do you offer gift wrapping?,"Yes, you can select gift wrapping at checkout for a small fee.",Orders
+How do I track my order?,Use the tracking number sent to your email or check your order history online.,Shipping
+What sizes do you carry?,Our size chart is available on each product page for reference.,Sizing
+Can I change the size after ordering?,"If your order hasn't shipped, contact support to modify the size.",Sizing
+Do you restock sold-out items?,"Yes, subscribe to notifications on the product page to know when it‚Äôs back in stock.",Orders
+How do I use a discount code?,Enter the promo code at checkout in the 'Apply Discount' field.,Payment
+Are your materials sustainable?,We source eco-friendly fabrics; check each product page for details.,Product Info
+My item is damaged. Can I get a replacement?,"Yes, report it through our returns portal, and we will send a replacement promptly.",Returns
+Can I combine multiple orders into one shipment?,"If the orders haven‚Äôt shipped, contact support to merge them.",Orders
+How do I create an account?,"Click 'Sign Up' and enter your email, name, and password to create an account.",Account
+I forgot my password. How can I reset it?,Use the 'Forgot Password' link on the login page to reset your password.,Account
+Do you have a loyalty program?,"Yes, sign up for our rewards program to earn points on every purchase.",Account
+My discount code isn‚Äôt working.,Check the code‚Äôs validity date and conditions; contact support if issues persist.,Payment
+How do I know my order was confirmed?,You will receive a confirmation email with your order details immediately.,Orders
+Can I change my billing address?,"Yes, log in and update your billing information before the order is processed.",Payment
+What if my package is lost?,Contact support; we will investigate and issue a replacement or refund if necessary.,Shipping
+Do you offer bulk order discounts?,"Yes, contact our sales team for pricing on bulk orders.",Orders
+How do I leave a product review?,Go to the product page and click 'Write a Review' after purchasing.,Orders
+Do you accept returns on sale items?,"Yes, sale items can be returned within 30 days, excluding final clearance items.",Returns
+Can I save items to buy later?,"Yes, add items to your wishlist while logged in.",Orders
+How do I contact customer support?,Click 'Contact Us' at the bottom of the page or email support@example.com.,Support
+Do you have physical stores?,"Currently, we operate online only.",Orders
+Can I get a copy of my invoice?,"Yes, download it from your order history.",Orders
+How do I know if an item is in stock?,Stock status is displayed on the product page.,Orders
+My order is partially missing. What now?,Contact support to report the missing items; we will resolve it promptly.,Orders
+Can I pay with PayPal?,"Yes, PayPal is available as a payment option at checkout.",Payment
+Is there a warranty on clothing?,"Yes, defects within 30 days are covered. Contact support for claims.",Returns
+Can I schedule a delivery?,Scheduled delivery is available in select regions; choose the option at checkout.,Shipping
+What payment methods do you accept?,"We accept credit/debit cards, PayPal, and Apple Pay.",Payment
+Do you offer student discounts?,"Yes, verify your student status at checkout to apply the discount.",Payment
+Can I change the color of my item after ordering?,Only if the order hasn‚Äôt shipped; contact support immediately.,Orders
+How do I unsubscribe from emails?,Click 'Unsubscribe' at the bottom of any marketing email.,Account
+Do you offer express shipping?,"Yes, choose express shipping at checkout for faster delivery.",Shipping
+My promo code expired. Can it still work?,Contact support; we may provide a one-time extension at our discretion.,Payment
+Can I pay in installments?,"Yes, we offer installment options via third-party services at checkout.",Payment
+Do you provide sizing guidance?,Check our detailed size charts on each product page for accurate measurements.,Sizing
+How do I know when my order ships?,You‚Äôll receive an email notification with the tracking number once shipped.,Shipping
+Can I add items to an order after checkout?,Only before shipping; contact support immediately to modify the order.,Orders
+Do you offer eco-friendly packaging?,"Yes, select the eco-packaging option at checkout.",Product Info
+Are your sizes true to fit?,Our size chart provides measurements; most customers find items fit as expected.,Sizing
+Can I report a website bug?,"Yes, contact support with details of the issue and screenshots if possible.",Support
+My gift card isn‚Äôt working.,Ensure the code is entered correctly and hasn‚Äôt expired; contact support if it still fails.,Payment
+Can I reorder a previous order quickly?,"Yes, go to your order history and select 'Reorder'.",Orders
+Do you provide receipts for purchases?,"Yes, receipts are emailed automatically and available in your account.",Orders
+Can I pick up my order instead of shipping?,"Currently, we do not offer in-store pickup; all orders are shipped.",Orders
+How do I cancel my subscription?,Go to your account settings and click 'Cancel Subscription'.,Account
+Do you offer gift cards?,"Yes, digital gift cards are available in various denominations.",Orders
+My item is defective. How do I return it?,Use our returns portal to report the defect; we‚Äôll send a replacement.,Returns
+Can I combine a gift card and discount code?,"Yes, both can be applied if terms allow.",Payment
+How do I change my account email?,Log in and update your email in account settings.,Account
+My order status says 'processing' for days.,Processing can take 1‚Äì2 days; contact support if delayed longer.,Shipping
+Can I request special packaging for gifts?,"Yes, choose the gift wrapping option at checkout.",Orders
+Are online prices the same as in-store?,We currently sell online only; all prices are final online.,Orders
+Do you restock popular items quickly?,Subscribe to notifications to know when items are restocked.,Orders
+My tracking number isn‚Äôt working.,"Check after 24 hours; if it still doesn‚Äôt work, contact support.",Shipping
+Can I pay with Apple Pay?,"Yes, Apple Pay is accepted at checkout.",Payment
+Do you ship on weekends?,We process orders Monday‚ÄìFriday; delivery may occur on weekends depending on courier.,Shipping
+Is there a limit on how many items I can order?,"No, but large orders may require separate shipping.",Orders
+How do I know if a return is approved?,You‚Äôll receive an email confirmation with return instructions.,Returns
+Can I change the delivery address mid-shipment?,Contact support immediately; changes may not be possible once shipped.,Shipping
+Do you offer VIP membership?,"Yes, join our VIP program for exclusive perks and discounts.",Account
+Can I get a refund for shipping fees?,Shipping fees are refundable only if the shipment was delayed or lost.,Shipping
+My coupon didn‚Äôt apply.,Check the code‚Äôs validity and terms; contact support if it should have worked.,Payment
+How do I know the item I want is in stock?,Stock availability is shown on the product page in real time.,Orders
+Can I request a specific delivery date?,"Yes, choose the delivery date option at checkout if available.",Shipping
+Do you have a phone number for support?,"Currently, support is online via email or chat only.",Support
+Can I get a replacement for a worn item?,Only items with defects are eligible; normal wear is not covered.,Returns
+My order is missing items.,Contact support with your order number; we‚Äôll resolve missing items promptly.,Orders
+How long are pre-order items shipped?,Pre-order items ship on the estimated release date listed on the product page.,Orders
+Do you offer promo codes regularly?,"Yes, subscribe to our newsletter for exclusive promo codes.",Payment
+Can I change my payment method after placing an order?,Only before the order ships; contact support immediately.,Payment
+Do you offer discounts for first-time buyers?,"Yes, a discount code is emailed upon account registration.",Payment
+Can I save a payment method for future use?,"Yes, payment methods can be saved securely in your account.",Payment
+Are returns free?,"Returns are free for defective or incorrect items; otherwise, standard return shipping applies.",Returns
+Can I get notifications when an item is back in stock?,"Yes, click 'Notify Me' on the product page.",Orders
+Do you provide care instructions for clothing?,"Yes, each product page includes care instructions.",Product Info
+Can I get a refund if I‚Äôm not satisfied with my purchase?,"Yes, items can be returned within 30 days for a full refund if in original condition.",Returns
+Do you provide tracking for international orders?,"Yes, all international orders include a tracking number sent via email.",Shipping
+My shipment is delayed. What should I do?,"Check your tracking link for updates. If it remains delayed, contact support.",Shipping
+Can I change my delivery method after ordering?,Only before the order ships; contact support to request a change.,Shipping
+Are your fabrics hypoallergenic?,Most of our fabrics are tested to be skin-friendly; check product descriptions for details.,Product Info
+Do you have a mobile app?,"Yes, our mobile app is available for iOS and Android.",Orders
+Can I request expedited processing?,"Yes, expedited processing is available for select items; choose the option at checkout.",Orders
+How do I know if my payment went through?,You will receive a confirmation email with your payment details.,Payment
+Can I order multiple items and pay separately?,"Yes, but each payment will generate a separate order confirmation.",Payment
+Do you offer free returns?,"Yes, returns are free for defective or incorrect items; otherwise, standard shipping applies.",Returns
+How do I reset my password?,Use the 'Forgot Password' link on the login page to reset your password.,Account
+Can I request a replacement if my item is worn out?,Only defective items are eligible for replacement; normal wear is not covered.,Returns
+Do you offer bulk shipping for large orders?,"Yes, contact support to arrange bulk shipping for large orders.",Orders
+Can I track my order on my phone?,"Yes, use the tracking link sent via email or our mobile app.",Shipping
+How do I change my account password?,Log in and go to account settings to update your password.,Account
+Do you offer holiday promotions?,"Yes, we run seasonal promotions; subscribe to our newsletter for updates.",Payment
+Can I gift an item to someone else?,"Yes, you can select gift wrapping and enter the recipient‚Äôs address at checkout.",Orders
+What should I do if I receive the wrong size?,Use our return portal to exchange the item for the correct size.,Returns
+Can I reorder a gift for someone else?,"Yes, use the 'Reorder' option in your order history.",Orders
+Are your clothing items machine washable?,"Yes, most items are machine washable; check care labels for specifics.",Product Info
+Do you provide refunds for shipping costs?,Shipping fees are refundable only if the shipment was delayed or lost.,Shipping
+My package is damaged. What should I do?,Contact support immediately to report the damage; we‚Äôll send a replacement.,Returns
+Can I combine a discount code with a sale item?,"Yes, if the terms allow; check the discount conditions.",Payment
+How do I cancel a pre-order?,Contact support before the release date to cancel a pre-order.,Order Management
+Do you provide fabric details for each product?,"Yes, fabric details are listed on every product page.",Product Info
+How long do returns take to process?,Returns are typically processed within 5‚Äì7 business days.,Returns
+Do you offer student pricing?,"Yes, verify your student status to receive student discounts.",Payment
+Can I split payment between multiple cards?,"Yes, split payments are available at checkout.",Payment
+How do I leave a review for a product?,Go to the product page and click 'Write a Review' after purchasing.,Orders
+Do you provide order confirmation emails?,"Yes, an email confirmation is sent immediately after your order is placed.",Orders
+Can I change my shipping method after placing an order?,Only before shipment; contact support for changes.,Shipping
+Do you offer support via live chat?,"Yes, live chat is available on our website during business hours.",Support
+Are gift cards valid internationally?,"Yes, digital gift cards can be used internationally on our website.",Orders
+How do I request a refund?,Submit a request through our returns portal with your order details.,Returns
+Can I add special instructions to my order?,"Yes, you can add notes during checkout for delivery instructions.",Orders
+Do you offer eco-friendly shipping options?,"Yes, select eco-friendly shipping at checkout where available.",Product Info
+How do I change my email for my account?,Log in and update your email in account settings.,Account
+Do you provide order history?,"Yes, your full order history is available in your account dashboard.",Account
+Can I pay with multiple gift cards?,"Yes, multiple gift cards can be applied to a single order.",Payment
+My package hasn‚Äôt arrived. What should I do?,Check the tracking information; contact support if it‚Äôs significantly delayed.,Shipping
+Can I cancel an order after it ships?,"No, once an order ships it cannot be canceled.",Order Management
+Do you have size guides?,"Yes, size guides are provided on each product page.",Sizing
+Can I return an item without a receipt?,A receipt or order number is required for returns.,Returns
+How do I know if an item is on sale?,Sale items are marked clearly on the product page and during checkout.,Orders
+Can I request a specific courier?,Courier selection depends on shipping method; contact support for options.,Shipping
+Do you offer pre-order notifications?,"Yes, sign up on the product page to receive pre-order alerts.",Orders
+How do I know if a coupon is valid?,Check the coupon‚Äôs expiration date and terms of use.,Payment
+Can I purchase multiple items for the same shipping address?,"Yes, multiple items can be shipped together if ordered simultaneously.",Shipping
+Do you offer anniversary or birthday discounts?,"Yes, registered users may receive special occasion discounts.",Payment
+How do I track international shipments?,Use the tracking link provided in your shipping confirmation email.,Shipping
+Can I change my preferred delivery time?,Contact support; changes are possible before shipment.,Shipping
+Are clothing items ethically sourced?,"Yes, we ensure ethical sourcing for all our products.",Product Info
+Do you provide care instructions for delicate fabrics?,"Yes, care instructions are listed on each product page.",Product Info
+Can I add items to a previous order?,Only if the order hasn‚Äôt shipped; contact support immediately.,Orders
+How do I know if an item will fit?,Refer to the size chart on the product page for measurements.,Sizing
+Do you offer waterproof packaging?,Standard packaging is water-resistant; contact support for special requests.,Shipping
+Can I change my subscription plan?,"Yes, manage your subscription in account settings.",Account
+Do you accept returns on pre-order items?,"Yes, returns are accepted once the pre-order has shipped.",Returns
+My item arrived late. Can I get compensation?,Contact support to discuss potential shipping compensation.,Shipping
+Can I use multiple promo codes?,Only one promo code can be applied per order unless specified otherwise.,Payment
+Do you provide notifications for shipping updates?,"Yes, tracking emails are sent automatically when status changes.",Shipping
+Can I request express handling?,"Yes, select express processing if available during checkout.",Orders
+Do you offer corporate discounts?,"Yes, contact support for corporate account pricing.",Orders
+Can I pay with a virtual card?,"Yes, virtual cards are accepted where supported.",Payment
+How long does it take to process refunds?,Refunds are processed within 5‚Äì7 business days after we receive the return.,Returns
+Can I schedule recurring orders?,Recurring orders are available via subscription options.,Orders
+How do I request a product sample?,Samples may be available for select items; contact support to request.,Orders
+Do you provide holiday delivery guarantees?,We strive to meet all holiday delivery deadlines; check cutoff dates online.,Shipping
+Can I change my billing information after ordering?,Only before the order ships; contact support immediately.,Payment
+Do you offer warranty for accessories?,"Yes, accessories have a 30-day defect warranty.",Returns
+My order tracking shows delayed. What next?,Check with the carrier; contact support if delayed beyond expected delivery.,Shipping
+How do I close my account?,Go to account settings and select 'Close Account'; contact support to confirm.,Account
+Do you offer price matching?,"Yes, for select items; contact support for details.",Payment
+Can I gift an order to multiple recipients?,"Yes, separate shipping addresses can be added for each recipient.",Orders
+Can I return an item after 30 days?,Items can only be returned within 30 days unless defective; contact support for exceptions.,Returns
+How do I know my order has shipped?,You will receive a shipping confirmation email with tracking details once your order leaves our warehouse.,Shipping
+Do you offer weekend delivery?,Delivery on weekends depends on the courier and shipping option selected.,Shipping
+Can I track my order in real time?,"Yes, tracking links provide real-time updates on your shipment.",Shipping
+Do you offer gift wrapping for free?,Gift wrapping is available for a small fee at checkout.,Orders
+"My order is missing items, what should I do?",Contact customer support with your order number; we will resolve missing items promptly.,Orders
+Do you provide eco-friendly packaging?,"Yes, eco-friendly packaging options are available at checkout.",Product Info
+How do I check if an item is back in stock?,Sign up for notifications on the product page to get an alert when the item is restocked.,Orders
+Can I change my shipping address after ordering?,Only before shipment; contact support immediately to request a change.,Shipping
+How long does it take to process a return?,Returns are usually processed within 5‚Äì7 business days after we receive the item.,Returns
+Can I exchange an item instead of returning it?,"Yes, use the exchange form in your account to select a new size or item.",Returns
+Do you provide instructions for washing delicate items?,"Yes, care instructions are provided on each product page.",Product Info
+Do you have a mobile app for easier shopping?,"Yes, our app is available for iOS and Android devices.",Orders
+Can I reorder a previous purchase quickly?,"Yes, use the 'Reorder' option in your order history.",Orders
+Do you accept multiple payment methods for a single order?,"Yes, you can split payments between available methods at checkout.",Payment
+How do I update my billing information?,Log in to your account and update billing details under account settings.,Payment
+Are your products ethically sourced?,"Yes, we ensure all products are ethically sourced and produced.",Product Info
+Can I request a replacement if my item is defective?,"Yes, submit a return request and we will send a replacement for defective items.",Returns
+Do you offer international shipping?,"Yes, we ship to most countries. Shipping fees vary based on location.",Shipping
+How can I apply a promo code?,Enter the promo code at checkout in the 'Apply Discount' field.,Payment
+My tracking link isn't updating. What should I do?,"Wait 24 hours for tracking to update; if it still doesn‚Äôt work, contact support.",Shipping
+Do you offer VIP or loyalty rewards?,"Yes, sign up for our loyalty program to earn points and receive exclusive offers.",Account
+Can I cancel a subscription anytime?,"Yes, subscriptions can be canceled via your account settings at any time.",Account
+Do you provide receipts for all purchases?,"Yes, receipts are emailed automatically and available in your account.",Orders
+Can I combine multiple orders for one shipping address?,"Yes, multiple items ordered simultaneously can be shipped together.",Shipping
+Do you offer bulk order discounts?,"Yes, contact support for pricing on bulk orders.",Orders
+Are sale items eligible for returns?,"Yes, sale items can be returned within 30 days unless marked as final sale.",Returns
+Can I schedule a specific delivery date?,"Yes, delivery dates can be scheduled at checkout where available.",Shipping
+Do you accept PayPal?,"Yes, PayPal is accepted as a payment option.",Payment
+How do I know if my payment was successful?,A confirmation email will be sent once your payment is processed.,Payment
+Can I change the size of my item after ordering?,Only if the order hasn't shipped; contact support immediately.,Sizing
+Do you provide size guides?,"Yes, size guides are available on every product page.",Sizing
+Can I return an item without a receipt?,A receipt or order number is required for all returns.,Returns
+Do you offer student discounts?,"Yes, verify your student status at checkout to receive a discount.",Payment
+How do I contact customer support?,Click 'Contact Us' on our website or email support@example.com.,Support
+Can I leave a review for a product?,"Yes, go to the product page and click 'Write a Review' after purchase.",Orders
+Do you ship orders on holidays?,Holiday shipping depends on courier schedules; check cutoff dates on our website.,Shipping
+My gift card isn‚Äôt working. What should I do?,Ensure the code is correct and hasn‚Äôt expired; contact support if issues persist.,Payment
+Do you offer free shipping?,Orders over $50 qualify for free standard shipping.,Shipping
+Can I request special instructions for my order?,"Yes, add notes during checkout for delivery instructions.",Orders
+Are your fabrics hypoallergenic?,Most fabrics are skin-friendly; check the product description for details.,Product Info
+Do you offer express shipping?,"Yes, express shipping is available at checkout for faster delivery.",Shipping
+Can I cancel a pre-order?,Pre-orders can be canceled before the release date by contacting support.,Order Management
+How long does standard shipping take?,Standard shipping usually takes 5‚Äì7 business days.,Shipping
+Do you provide tracking for all orders?,"Yes, every order includes a tracking number sent by email.",Shipping
+Can I change my email address for my account?,Log in and update your email under account settings.,Account
+Do you offer subscription services?,"Yes, certain products are available via subscription.",Orders
+My package was lost. What should I do?,Contact support immediately; we will issue a replacement or refund if necessary.,Shipping
+Can I reorder an item for someone else as a gift?,"Yes, use the 'Reorder' option and enter the recipient‚Äôs shipping details.",Orders
+Do you provide notifications for shipment updates?,"Yes, tracking emails are sent automatically.",Shipping
+Can I change my payment method after placing an order?,Only before shipment; contact support immediately to request a change.,Payment
+Do you offer eco-friendly shipping options?,"Yes, eco-friendly shipping is available at checkout.",Product Info
+How do I return a damaged item?,Submit a return request through our portal and include photos of the damage.,Returns
+Can I split payments between gift cards and credit cards?,"Yes, both payment methods can be combined at checkout.",Payment
+Do you provide care instructions for all products?,"Yes, care instructions are listed on every product page.",Product Info
+How do I know if an item is in stock?,Stock availability is displayed on the product page.,Orders
+Can I change my delivery address mid-shipment?,Contact support immediately; changes may not be possible after shipping.,Shipping
+Do you provide receipts automatically?,"Yes, receipts are emailed and available in your account.",Orders
+Can I request a sample of a product?,Samples may be available; contact support to request one.,Orders
+How do I know if a promo code is valid?,Check the expiration date and terms of the promo code.,Payment
+Do you offer warranty on accessories?,"Yes, accessories have a 30-day defect warranty.",Returns
+Can I request express handling for my order?,"Yes, express processing is available at checkout where applicable.",Orders
+My tracking number isn‚Äôt working. What should I do?,"Wait 24 hours for updates; if still not working, contact support.",Shipping
+Do you provide fabric details for each product?,"Yes, all product pages include fabric composition and details.",Product Info
+Can I use multiple promo codes on one order?,Only one promo code is allowed per order unless otherwise specified.,Payment
+How long does it take to process refunds?,Refunds are processed within 5‚Äì7 business days after the return is received.,Returns
+Can I schedule recurring orders?,"Yes, recurring orders are available through subscription options.",Orders
+Do you provide gift cards?,"Yes, digital gift cards are available in various denominations.",Orders
+Are your sizes true to fit?,Most customers find items fit as expected; refer to the size chart for accuracy.,Sizing
+Can I leave special instructions for delivery?,"Yes, add notes during checkout for delivery preferences.",Orders
+Do you offer price matching?,"Yes, contact support for details on eligible items.",Payment
+Can I close my account?,Go to account settings and select 'Close Account'; contact support to confirm.,Account
+How do I request a replacement for a defective item?,Submit a return request and we will send a replacement for defective items.,Returns
+Do you provide notifications for restocks?,"Yes, sign up on the product page for restock alerts.",Orders
+Can I change the color of my item after ordering?,Only before the order ships; contact support immediately.,Orders
+My package arrived damaged. What do I do?,Contact support immediately with photos; we will replace the damaged item.,Returns
+Do you offer warranty on clothing items?,"Yes, defects within 30 days are covered. Contact support for claims.",Returns
+Do you provide order confirmation emails?,"Yes, confirmation emails are sent immediately after purchase.",Orders
+Can I return items to a different address?,"No, returns must be sent to the designated return address provided in your portal.",Returns
+Can I combine multiple orders for one shipment?,"Yes, if the orders have not yet shipped, contact support to combine them.",Orders
+Do you offer free returns for all items?,Returns are free only for defective or incorrect items; standard items require return shipping.,Returns
+Can I request express shipping for international orders?,"Yes, select express shipping at checkout if available.",Shipping
+Do you provide notifications for shipping delays?,"Yes, tracking emails include updates on delays and status changes.",Shipping
+Can I get a refund if my package is lost?,"Yes, contact support immediately and we will issue a replacement or refund.",Shipping
+Do you offer weekend customer support?,"Yes, support is available online during weekends from 10 AM to 4 PM EST.",Support
+How do I return an item without packaging?,Contact support; returns must be approved and may require alternate packaging instructions.,Returns
+Can I exchange an item for a different product?,"Yes, use the exchange form to select a new item and ship the original back.",Returns
+Do you provide care instructions for all fabrics?,"Yes, care instructions are included on every product page.",Product Info
+Can I pay with multiple credit cards?,"Yes, split payments between cards are allowed at checkout.",Payment
+My order was partially fulfilled. What should I do?,Contact support to resolve missing items or delayed products.,Orders
+Do you offer subscription boxes?,"Yes, select subscription options are available for certain product categories.",Orders
+Can I request a replacement for a damaged item?,"Yes, submit a return request and we will send a replacement.",Returns
+How do I know if my order is confirmed?,You will receive an email confirmation immediately after placing your order.,Orders
+Do you offer free shipping for international orders?,Free shipping is only available for domestic orders over $50; international rates vary.,Shipping
+Can I cancel my order after it ships?,"No, once shipped, orders cannot be canceled; returns can be processed after delivery.",Order Management
+Do you provide tracking for every shipment?,"Yes, all shipments include a tracking number sent via email.",Shipping
+Can I combine a gift card with a discount code?,"Yes, if the discount terms allow, both can be applied at checkout.",Payment
+Do you offer express handling for pre-orders?,"Yes, express processing may be available; select the option at checkout.",Orders
+How do I apply multiple promo codes?,Only one promo code can be used per order unless explicitly stated otherwise.,Payment
+Can I change my delivery address for an international order?,Contact support immediately; changes may not be possible once shipped.,Shipping
+Do you provide receipts for all purchases?,"Yes, receipts are emailed and available in your account.",Orders
+Can I leave special instructions for gift wrapping?,"Yes, enter your instructions during checkout.",Orders
+Do you offer a loyalty program?,"Yes, join our rewards program to earn points and receive discounts.",Account
+Can I change the size of a pre-ordered item?,Only if the order hasn‚Äôt shipped; contact support immediately.,Sizing
+Do you offer warranty for accessories?,"Yes, accessories have a 30-day warranty against defects.",Returns
+Can I request express shipping for weekend delivery?,"Yes, select express shipping at checkout if available.",Shipping
+Do you offer student discounts for online purchases?,"Yes, verify your student status at checkout to receive discounts.",Payment
+Can I request a courier for my shipment?,Courier selection depends on the shipping option; contact support for requests.,Shipping
+Do you provide fabric composition details?,"Yes, all products list fabric type and composition on the product page.",Product Info
+Can I combine multiple orders for one billing payment?,"Yes, multiple orders can be combined if placed together; contact support.",Payment
+Do you offer free returns on sale items?,"Yes, unless marked as final sale; check the return policy.",Returns
+My tracking number is not updating. What should I do?,"Wait 24 hours; if still not updating, contact support.",Shipping
+Do you offer gift cards for international use?,"Yes, digital gift cards can be used internationally on our website.",Orders
+Can I request expedited processing for returns?,"Yes, contact support to request expedited return processing.",Returns
+Do you provide care instructions for machine-washable items?,"Yes, care instructions are listed on each product page.",Product Info
+Can I split payment between gift cards and credit cards?,"Yes, multiple payment methods can be applied at checkout.",Payment
+Do you offer price matching for online orders?,"Yes, contact support for details on eligible products.",Payment
+Can I change my subscription plan anytime?,"Yes, subscription settings can be managed in your account.",Account
+Do you provide notifications for restocked items?,"Yes, sign up on the product page for restock alerts.",Orders
+Can I request a specific delivery time?,"Yes, select a preferred delivery time during checkout if available.",Shipping
+Do you offer corporate accounts?,"Yes, contact support to set up a corporate account with special pricing.",Orders
+Can I reorder a gift for someone else quickly?,"Yes, use the 'Reorder' option and enter the recipient‚Äôs address.",Orders
+Do you offer free shipping for first-time orders?,"Yes, first-time customers may qualify for free shipping; check the website.",Shipping
+Can I change the color of an item after ordering?,Only before the order ships; contact support immediately.,Orders
+Do you provide size guides for all items?,"Yes, size charts are available on every product page.",Sizing
+My package arrived damaged. What should I do?,Contact support immediately with photos; a replacement will be issued.,Returns
+Can I use multiple promo codes on one order?,Only one promo code per order is allowed unless stated otherwise.,Payment
+Can I track international shipments in real time?,"Yes, tracking links provide real-time updates for international orders.",Shipping
+Can I request express shipping for international pre-orders?,"Yes, select express shipping during checkout if available.",Orders
+Do you offer eco-friendly packaging options for gifts?,"Yes, eco-packaging can be selected at checkout for gift orders.",Product Info
+Can I combine multiple gift cards on one order?,"Yes, multiple gift cards can be applied if allowed.",Payment
+Do you offer free returns for defective items?,"Yes, defective items can be returned free of charge.",Returns
+Can I request a replacement for an incorrect order?,"Yes, submit a request through our returns portal and we will send the correct item.",Returns
+Do you offer express shipping for domestic orders?,"Yes, select express shipping at checkout for faster delivery.",Shipping
+Can I leave special instructions for my subscription orders?,"Yes, add notes during checkout or in your account settings.",Orders
+Do you provide notifications for order updates?,"Yes, tracking and status emails are sent automatically.",Shipping
+Can I cancel an order before it ships?,"Yes, orders can be canceled before shipment via account settings or support.",Order Management
+Do you provide receipts for gift purchases?,"Yes, receipts are emailed to the purchaser and can be downloaded from your account.",Orders
+Can I change my email for notifications?,"Yes, update your email under account settings to receive notifications.",Account
+Do you offer express handling for urgent orders?,"Yes, select express processing at checkout if available.",Orders
+Can I return an item after the 30-day period?,Only defective items may be eligible for returns after 30 days; contact support.,Returns
+Do you provide care instructions for delicate items?,"Yes, instructions are listed on the product page.",Product Info
+Can I schedule recurring gift orders?,"Yes, recurring orders are available via subscription options.",Orders
+Do you offer VIP or premium membership?,"Yes, join our VIP program for exclusive discounts and early access.",Account
+Can I request a specific courier for international shipments?,Contact support to see if courier selection is possible.,Shipping
+Do you provide tracking updates via SMS?,"Yes, tracking updates can be sent via SMS if selected during checkout.",Shipping
+Can I reorder a previous purchase for multiple recipients?,"Yes, use 'Reorder' and enter each recipient‚Äôs shipping details.",Orders
+Do you offer warranty for all products?,Warranty applies to defects within 30 days of purchase; check product details.,Returns
+Can I split my payment between gift cards and credit cards?,"Yes, multiple payment methods are allowed at checkout.",Payment
+Do you provide notifications for pre-order shipments?,"Yes, tracking emails are sent once pre-orders are shipped.",Shipping
+Can I request express delivery for holiday orders?,"Yes, select express shipping at checkout for holiday deliveries.",Shipping
+Do you offer care instructions for all fabric types?,"Yes, care instructions are provided on every product page.",Product Info
+Can I combine multiple discounts on one order?,Only one discount may apply unless stated otherwise in the terms.,Payment
+Do you provide real-time updates for package tracking?,"Yes, tracking links provide live status updates.",Shipping
+Can I cancel my subscription at any time?,"Yes, manage and cancel subscriptions via your account.",Account
+Do you offer corporate discounts for bulk purchases?,"Yes, contact support to set up corporate accounts with special pricing.",Orders
+Can I request special packaging for gifts?,"Yes, special packaging options can be selected at checkout.",Orders
+Can I reorder an item from a previous purchase?,"Yes, use the 'Reorder' option in your order history to quickly order the same item.",Orders
+Do you offer free shipping for loyalty members?,"Yes, loyalty members may qualify for free shipping; check your account benefits.",Shipping
+Can I track a package internationally via SMS?,"Yes, SMS tracking updates are available for select international orders.",Shipping
+Do you offer a warranty for all accessories?,"Yes, accessories are covered for defects within 30 days of purchase.",Returns
+Can I request a specific delivery time for pre-orders?,"Yes, select a preferred delivery time at checkout if available.",Shipping
+Do you provide care instructions for wool and silk?,"Yes, care instructions for delicate fabrics like wool and silk are included on product pages.",Product Info
+Can I combine multiple gift cards for a single purchase?,"Yes, multiple gift cards can be applied if allowed by the system.",Payment
+Do you offer VIP early access to sales?,"Yes, VIP members get early access to select sales and promotions.",Account
+Can I change my shipping address for a pre-order?,Contact support immediately; changes are only possible before shipping.,Shipping
+Do you provide eco-friendly packaging for subscriptions?,"Yes, eco-friendly packaging options are available for subscription orders.",Product Info
+Can I request express handling for subscription boxes?,"Yes, select express processing if available during checkout.",Orders
+Do you offer international gift cards?,"Yes, digital gift cards can be used internationally on our website.",Orders
+Can I cancel a recurring subscription order?,"Yes, subscriptions can be canceled through your account settings.",Account
+Do you provide tracking notifications for weekend deliveries?,"Yes, tracking updates are sent automatically even for weekend deliveries.",Shipping
+Can I split payment between multiple credit cards for one order?,"Yes, split payment is allowed at checkout.",Payment
+Do you offer pre-order notifications via email?,"Yes, sign up on the product page to receive email alerts for pre-orders.",Orders
+Can I combine multiple promo codes for one purchase?,Only one promo code can be applied per order unless specified otherwise.,Payment
+Do you provide gift wrapping for international orders?,"Yes, gift wrapping is available for international orders at checkout.",Orders
+Can I request a replacement for a lost package?,"Yes, contact support immediately to issue a replacement or refund.",Shipping
+Do you offer recurring gift subscriptions?,"Yes, recurring gift options are available via our subscription services.",Orders
+Can I change my email for notifications after subscribing?,"Yes, update your email in account settings to continue receiving notifications.",Account
+Do you provide tracking updates for high-value shipments?,"Yes, high-value shipments include tracking and insurance details.",Shipping
+Can I request express shipping for holiday orders internationally?,"Yes, select express shipping at checkout if available for international orders.",Shipping
+Do you offer warranty for seasonal sale items?,Warranty applies to defective items; final sale items may not be covered.,Returns
+Can I leave special instructions for recurring orders?,"Yes, add notes during checkout or in your account settings for recurring orders.",Orders
+Do you provide care instructions for synthetic fabrics?,"Yes, care instructions for polyester, nylon, and other synthetics are provided.",Product Info
+Can I reorder a gift for multiple recipients?,"Yes, use 'Reorder' and enter each recipient‚Äôs shipping details.",Orders
+Do you offer express handling for international returns?,"Yes, contact support to arrange express processing for returns.",Returns
+Can I change the color of a subscription item?,Only before shipment; contact support immediately.,Orders
+Do you provide real-time notifications for pre-orders?,"Yes, tracking emails are sent once pre-orders are shipped.",Shipping
+Can I cancel an international order before shipping?,"Yes, contact support immediately to cancel prior to shipment.",Order Management
+Do you offer free returns for subscription boxes?,"Yes, defective subscription items can be returned free of charge.",Returns
+Can I request a courier for express shipping?,Contact support to request specific courier options where available.,Shipping
+Do you provide size guides for all clothing categories?,"Yes, size charts are included for each clothing category.",Sizing
+Can I combine multiple orders for one shipment internationally?,"Yes, contact support before shipment to combine multiple orders.",Shipping
+Do you offer student discounts on subscriptions?,"Yes, verified students may receive discounts on subscription orders.",Payment
+Can I request express delivery for bulk orders?,"Yes, contact support to arrange express shipping for bulk orders.",Shipping
+Do you provide care instructions for blended fabrics?,"Yes, care instructions are provided for all blended fabric products.",Product Info
+Can I split payments between multiple gift cards?,"Yes, multiple gift cards can be applied at checkout.",Payment
+Do you offer VIP early access for international customers?,"Yes, VIP early access is available to international customers as well.",Account
+Can I request special packaging for gift subscriptions?,"Yes, special packaging options can be selected at checkout.",Orders
+Do you provide notifications for high-demand items?,"Yes, sign up on the product page for alerts when high-demand items are back in stock.",Orders
+Can I reorder a previous purchase as a gift?,"Yes, use the 'Reorder' option and enter the recipient‚Äôs shipping details.",Orders
+Do you offer express shipping for domestic pre-orders?,"Yes, express shipping is available at checkout for pre-orders.",Shipping
+Can I request a replacement for damaged subscription items?,"Yes, submit a return request and a replacement will be sent.",Returns
+Do you provide care instructions for seasonal fabrics?,"Yes, care instructions are included on each product page.",Product Info
+Can I leave special instructions for pre-order shipments?,"Yes, add notes during checkout if special instructions are needed.",Orders
+Do you offer recurring subscription notifications via email?,"Yes, tracking and status notifications are sent via email.",Orders
+Can I combine multiple discount codes for subscription orders?,Only one discount code can be applied unless specified otherwise.,Payment
+Do you provide receipts for international orders?,"Yes, receipts are emailed and can be downloaded from your account.",Orders
+Can I change my delivery address for subscription items?,Contact support immediately; changes are possible only before shipping.,Shipping
+Do you offer warranty for digital gift cards?,"Yes, contact support for issues with digital gift cards within 30 days.",Returns
+Can I schedule recurring gift deliveries?,"Yes, recurring gift orders are available via subscription options.",Orders
+Do you provide real-time notifications for subscription shipments?,"Yes, tracking emails are sent once subscription items are shipped.",Shipping
+Can I reorder a gift subscription for multiple recipients?,"Yes, use 'Reorder' and enter each recipient‚Äôs shipping details.",Orders
+Do you offer express handling for bulk subscription orders?,"Yes, contact support to arrange express processing for bulk subscription orders.",Orders
+Can I change the color or size of a pre-ordered subscription item?,Only before shipment; contact support immediately.,Orders
+Do you provide care instructions for international shipments?,"Yes, care instructions are included on product pages for all items.",Product Info
+Can I combine multiple gift cards for subscription payments?,"Yes, multiple gift cards can be applied at checkout if allowed.",Payment
+Do you offer VIP or loyalty rewards for subscription members?,"Yes, subscription members can earn points and benefits through the loyalty program.",Account
+Can I cancel a subscription order internationally before shipping?,"Yes, contact support immediately to cancel before shipment.",Order Management
+Do you provide notifications for seasonal sales?,"Yes, subscribe to our newsletter to receive sale notifications.",Orders
+Can I request express delivery for VIP members?,"Yes, express delivery options are available for VIP members where applicable.",Shipping
+Do you provide care instructions for limited edition items?,"Yes, care instructions are provided on product pages for limited edition items.",Product Info
+Can I leave special instructions for VIP orders?,"Yes, notes can be added during checkout for VIP orders.",Orders
+Do you offer recurring order tracking for VIP members?,"Yes, VIP members receive tracking notifications for recurring orders.",Orders
+Can I request a replacement for lost VIP shipments?,"Yes, contact support to issue a replacement for lost VIP items.",Shipping
+Do you provide notifications for VIP restocks?,"Yes, VIP members can sign up for restock alerts.",Orders
+Can I reorder previous VIP purchases for multiple recipients?,"Yes, use 'Reorder' and enter each recipient‚Äôs shipping details.",Orders
+Do you offer express shipping for VIP pre-orders?,"Yes, VIP pre-orders can select express shipping during checkout.",Shipping
+Can I combine multiple VIP gift cards for one order?,"Yes, multiple gift cards can be applied if allowed.",Payment
+Do you provide size guides for VIP exclusive items?,"Yes, size guides are available on VIP product pages.",Sizing
+Can I split VIP payments between gift cards and credit cards?,"Yes, multiple payment methods can be applied at checkout.",Payment
+Do you offer warranty for VIP subscription items?,"Yes, VIP subscription items are covered for defects within 30 days.",Returns
+Can I request expedited shipping for VIP orders internationally?,"Yes, select expedited shipping during checkout if available.",Shipping
+Do you provide notifications for VIP subscription renewals?,"Yes, renewal reminders are sent via email before the next billing cycle.",Orders
+Can I change my VIP subscription plan at any time?,"Yes, VIP subscriptions can be modified in your account settings.",Account
+Do you offer gift wrapping for VIP subscriptions?,"Yes, special gift wrapping options are available at checkout for VIP orders.",Orders
+Can I combine multiple VIP discount codes for one order?,Only one discount code can be applied unless otherwise stated.,Payment
+Do you provide care instructions for VIP subscription items?,"Yes, care instructions are included for all VIP subscription items.",Product Info
+Can I leave special instructions for VIP recurring orders?,"Yes, add notes during checkout or in account settings.",Orders
+Do you offer free returns for VIP pre-orders?,"Yes, defective VIP pre-order items can be returned free of charge.",Returns
+Can I reorder a VIP subscription item for someone else?,"Yes, use 'Reorder' and enter the recipient‚Äôs shipping details.",Orders
+Do you provide tracking notifications for VIP bulk orders?,"Yes, tracking updates are sent automatically for VIP bulk shipments.",Shipping
+Can I request express handling for VIP subscription pre-orders?,"Yes, express processing is available at checkout if selected.",Orders
+Do you offer VIP early access to new product releases?,"Yes, VIP members get early access to select new releases.",Account
+Can I change my delivery address for VIP subscription items?,Contact support immediately; changes are only possible before shipment.,Shipping
+Do you provide real-time tracking for VIP international shipments?,"Yes, VIP international orders include live tracking updates.",Shipping
+Can I cancel a VIP subscription order before shipment?,"Yes, contact support immediately to cancel before the order ships.",Order Management
+Do you offer recurring gift subscriptions for VIP members?,"Yes, VIP members can set up recurring gift subscriptions.",Orders
+Can I request special packaging for VIP pre-orders?,"Yes, select special packaging during checkout if available.",Orders
+Do you provide size guides for all VIP products?,"Yes, size charts are available on all VIP product pages.",Sizing
+Can I combine multiple VIP gift cards for a single order?,"Yes, multiple VIP gift cards can be applied if allowed.",Payment
+Do you offer warranty for VIP digital gift cards?,"Yes, contact support for issues with VIP digital gift cards within 30 days.",Returns
+Can I schedule recurring VIP gift deliveries?,"Yes, recurring VIP gift orders can be set up via subscription options.",Orders
+Do you provide notifications for VIP seasonal sales?,"Yes, VIP members receive notifications for seasonal promotions.",Orders
+Can I request express shipping for VIP holiday orders internationally?,"Yes, select express shipping at checkout if available for VIP holiday orders.",Shipping
+Do you provide care instructions for VIP limited edition items?,"Yes, care instructions are included on product pages for all VIP limited editions.",Product Info
+Can I leave special instructions for VIP holiday gifts?,"Yes, notes can be added during checkout for VIP holiday orders.",Orders
+Do you offer VIP recurring order tracking via email?,"Yes, VIP members receive email notifications for recurring orders.",Orders
+Can I request a replacement for lost VIP subscription shipments?,"Yes, contact support to issue a replacement for lost VIP items.",Shipping
+Do you provide VIP restock notifications?,"Yes, VIP members can sign up for alerts when items are back in stock.",Orders
+Can I reorder VIP purchases for multiple recipients?,"Yes, use 'Reorder' and enter each recipient‚Äôs shipping details.",Orders
+Do you offer express shipping for VIP pre-orders?,"Yes, VIP pre-orders can select express shipping at checkout.",Shipping
+Can I split VIP payments between multiple gift cards and credit cards?,"Yes, multiple payment methods are allowed at checkout.",Payment
+Do you provide size guides for VIP exclusive products?,"Yes, size guides are available for all VIP exclusive items.",Sizing
+Do you offer warranty for VIP subscription items internationally?,"Yes, VIP subscription items are covered for defects within 30 days globally.",Returns
+Can I request expedited delivery for VIP subscription renewals?,"Yes, select expedited shipping if available for VIP renewals.",Shipping
+Do you provide care instructions for VIP seasonal fabrics?,"Yes, care instructions are provided for all seasonal VIP fabrics.",Product Info
+Can I leave special instructions for VIP recurring gift subscriptions?,"Yes, add notes during checkout or in your account settings.",Orders
+Do you offer free VIP returns for international shipments?,"Yes, defective VIP items shipped internationally can be returned free of charge.",Returns
+Can I combine VIP and standard gift cards for one order?,"Yes, both VIP and standard gift cards can be applied if allowed.",Payment
+Do you provide VIP pre-order notifications via SMS?,"Yes, SMS alerts are sent for VIP pre-orders if selected.",Orders
+Can I change my VIP subscription payment method before billing?,"Yes, update payment details in your account before the next billing cycle.",Payment
+Do you offer express handling for VIP bulk subscription orders?,"Yes, contact support to arrange express handling for bulk orders.",Orders
+Can I reorder a VIP gift subscription for someone internationally?,"Yes, use 'Reorder' and enter the recipient‚Äôs international shipping details.",Orders
+Do you provide VIP tracking updates for international bulk shipments?,"Yes, VIP international bulk shipments include tracking notifications.",Shipping
+Can I schedule recurring VIP international orders?,"Yes, recurring VIP orders can be scheduled via subscription options.",Orders
+Do you offer VIP early access to international sales?,"Yes, VIP international members receive early access to select sales.",Account
+Can I request express shipping for VIP international holiday gifts?,"Yes, select express shipping at checkout if available.",Shipping
+Do you provide care instructions for VIP international orders?,"Yes, care instructions are included on product pages for all international VIP items.",Product Info
+Can I leave special instructions for VIP international shipments?,"Yes, notes can be added during checkout or in account settings.",Orders
+Do you offer recurring VIP gift subscriptions internationally?,"Yes, international recurring VIP subscriptions are available.",Orders
+Can I combine multiple VIP international discount codes?,Only one discount code can be applied unless stated otherwise.,Payment
+Do you provide VIP receipts for international orders?,"Yes, receipts are emailed and can be downloaded from your account.",Orders
+Can I cancel a VIP international subscription order before shipping?,"Yes, contact support immediately to cancel prior to shipment.",Order Management
+Do you offer VIP notifications for seasonal international sales?,"Yes, VIP members are notified of seasonal sales internationally.",Orders
+Can I request express delivery for VIP international bulk orders?,"Yes, express delivery options are available for VIP bulk shipments.",Shipping
+Do you provide care instructions for VIP limited edition international items?,"Yes, care instructions are included for all VIP limited editions.",Product Info
+Can I leave special instructions for VIP international pre-orders?,"Yes, add notes during checkout if special instructions are needed.",Orders
+Do you provide real-time notifications for VIP international subscriptions?,"Yes, tracking emails are sent once VIP international subscription items are shipped.",Shipping
+Can I reorder VIP international subscription items for multiple recipients?,"Yes, use 'Reorder' and enter each recipient‚Äôs international shipping details.",Orders
+Do you offer express handling for VIP international pre-orders?,"Yes, contact support to arrange express handling for VIP pre-orders.",Orders
+Can I change the color or size of VIP international pre-ordered items?,Only before shipment; contact support immediately.,Orders
+Do you provide care instructions for VIP international fabrics?,"Yes, care instructions are included on product pages for all fabrics.",Product Info
+Can I combine multiple VIP gift cards for international subscription payments?,"Yes, multiple gift cards can be applied at checkout if allowed.",Payment
+Do you offer VIP loyalty rewards for international subscription members?,"Yes, international VIP members can earn points and benefits.",Account
+Can I cancel a VIP international recurring order before shipment?,"Yes, contact support immediately to cancel before shipping.",Order Management
+Do you provide VIP notifications for international limited-time offers?,"Yes, VIP members receive alerts for limited-time offers internationally.",Orders
+Can I request express shipping for VIP international limited edition items?,"Yes, select express shipping at checkout if available.",Shipping
+Do you provide care instructions for VIP exclusive fabrics internationally?,"Yes, care instructions are included for all VIP exclusive fabrics.",Product Info
+Can I leave special instructions for VIP international subscription gifts?,"Yes, add notes during checkout or in account settings.",Orders
+Do you offer recurring VIP international order tracking?,"Yes, VIP international members receive tracking notifications for recurring orders.",Orders
+Can I request a replacement for lost VIP international subscription shipments?,"Yes, contact support to issue a replacement for lost VIP items.",Shipping
+Do you provide VIP international restock notifications?,"Yes, VIP international members can sign up for alerts when items are back in stock.",Orders
+Can I reorder previous VIP international purchases for multiple recipients?,"Yes, use 'Reorder' and enter each recipient‚Äôs shipping details.",Orders
+Do you offer express shipping for VIP international pre-orders?,"Yes, VIP international pre-orders can select express shipping during checkout.",Shipping
+Can I split VIP international payments between multiple gift cards and credit cards?,"Yes, multiple payment methods are allowed at checkout.",Payment
+Can I change the shipping method after placing an order?,"Yes, you can change it only before the order is shipped; contact support immediately.",Shipping
+Do you offer gift receipts?,"Yes, gift receipts can be requested during checkout or through your account.",Orders
+Can I get a refund if I received the wrong item?,"Yes, contact support with your order number and we will issue a replacement or refund.",Returns
+How do I know if an item is eligible for return?,Check the product page and our return policy; most items are eligible within 30 days.,Returns
+Can I combine a sale item with a promo code?,Only non-final sale items are eligible for promo codes; check terms during checkout.,Payment
+Do you offer bulk shipping discounts?,"Yes, contact support for pricing and options for bulk shipments.",Orders
+Can I request a specific delivery carrier?,Courier selection may be limited; contact support to check available options.,Shipping
+Do you provide care instructions for all seasonal items?,"Yes, every seasonal item includes care instructions on the product page.",Product Info
+Can I track my return after sending it back?,"Yes, a tracking link will be provided once your return is processed.",Returns
+Do you offer partial refunds for missing items in an order?,"Yes, contact support and we will issue a refund for any missing items.",Orders
+Can I change the billing address after placing an order?,Only before the payment is processed; contact support immediately.,Payment
+Do you offer expedited returns for urgent cases?,"Yes, contact support to arrange expedited return processing.",Returns
+Can I request a replacement for a defective gift item?,"Yes, submit a return request and we will send a replacement.",Returns
+Do you provide real-time notifications for international shipments?,"Yes, tracking links provide live updates for international orders.",Shipping
+Can I update my subscription delivery preferences?,"Yes, subscription preferences can be updated in your account settings.",Account
+Do you offer student discounts on pre-orders?,"Yes, verified students may receive discounts on eligible pre-orders.",Payment
+Can I combine multiple subscriptions into one billing cycle?,"Yes, contact support to combine multiple subscriptions into a single billing cycle.",Account
+Do you provide receipts for gift purchases sent internationally?,"Yes, receipts are emailed to the purchaser and can be downloaded from your account.",Orders
+How do I update my preferred name in university systems?,You can update your preferred name through the student profile section of the portal. Changes typically reflect across systems within 24‚Äì48 hours.,Student Records
+Where can faculty request a new course shell in Canvas?,Faculty can request a new Canvas course shell through the academic technology request form available on the IT services site.,Faculty Support
+How do I reset my university email password if I am off campus?,You can reset your password using the self-service password reset tool. Multi-factor authentication will be required.,IT Support
+What should I do if my meal plan is not showing correctly?,"If your meal plan appears incorrect, contact Dining Services or submit a support ticket with your student ID and plan details.",Campus Services
+How can staff request access to a shared network drive?,Staff should submit an access request through ServiceNow and include the drive name and approval from the data owner.,IT Access
+Where are official academic calendars published?,Official academic calendars are published on the Registrar‚Äôs website and updated annually.,Academic Information
+How do I report a broken classroom technology issue?,Report classroom technology issues by calling the help desk or submitting a ticket with the building and room number.,Classroom Support
+Can alumni still access their university email account?,Alumni email access depends on graduation date and current policy. Check the alumni IT access page for eligibility details.,Alumni Support
+How do I change my emergency contact information?,Emergency contact information can be updated in the personal information section of the student portal.,Student Records
+What browser works best with the university website?,"The university website is optimized for the latest versions of Chrome, Edge, Firefox, and Safari.",Web Support
+Where can I find instructions for setting up campus Wi-Fi on a new device?,Step-by-step Wi-Fi setup instructions are available on the IT services knowledge base for all major devices.,IT Support
+How do I request captioning for a university video?,Captioning requests should be submitted through the accessibility services form with the video link and deadline.,Accessibility
+What is the process for reporting a phishing email?,Phishing emails should be reported using the report phishing button in your email client or forwarded to IT security.,IT Security

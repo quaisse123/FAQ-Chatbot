@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>FAQ Chatbot</title>
+    <link rel="stylesheet" href="{{ url_for('static', path='style.css') }}" />
+  </head>
+  <body>
+    <main class="page">
+      <header class="hero">
+        <p class="eyebrow">FAQ assistant</p>
+        <h1>Ask anything about our delivery service</h1>
+        <p class="sub">
+          Type your question and the bot will find the closest match.
+        </p>
+      </header>
+
+      <section class="panel">
+        <div id="chat" class="chat" role="log" aria-live="polite">
+          <div class="message bot">
+            Hi! Ask me about delivery, payments, refunds, or scheduling.
+          </div>
+          <div id="status" class="message status" role="status" aria-live="polite" hidden>
+            <div id="status-title" class="status-title">Working...</div>
+            <ol class="status-steps">
+              <li class="status-step" data-step="0">Analyzing question</li>
+              <li class="status-step" data-step="1" data-llm="true">LLM rewrite</li>
+              <li class="status-step" data-step="2">Matching FAQ</li>
+              <li class="status-step" data-step="3">Preparing response</li>
+            </ol>
+          </div>
+        </div>
+
+        <form id="chat-form" class="form" autocomplete="off">
+          <label for="question">Your question</label>
+          <div class="input-row">
+            <input
+              id="question"
+              name="question"
+              type="text"
+              placeholder="Example: How long does delivery take?"
+              required
+            />
+            <button type="submit">Ask</button>
+          </div>
+          <div class="controls">
+            <label class="toggle">
+              <input id="llm-toggle" type="checkbox" checked />
+              <span>Use LLM rewrite</span>
+            </label>
+            <button type="button" id="clear">Clear chat</button>
+          </div>
+        </form>
+      </section>
+    </main>
+
+    <script src="{{ url_for('static', path='app.js') }}"></script>
+  </body>
+</html>
